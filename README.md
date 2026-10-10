@@ -1,7 +1,7 @@
 
 # Hi there 👋 
 
-## Welcome to the ss0-dev profile
+## Welcome to the ss.dev profile
 
 
 ## 🚀 About Me
@@ -21,7 +21,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
 
 
 
