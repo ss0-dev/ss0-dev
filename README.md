@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 🛠 I’m currently working on school projects, Discord bots, and web development.
-- 🌱 I’m learning more about HTML, CSS, JavaScript, and fullstack basics.
+- 🌱 I’m learning more about HTML, CSS and Cybersecurity.
 - 💬 Ask me about Python, JavaScript, or server configuration.
 
 ## 📫 Contact
