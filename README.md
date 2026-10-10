@@ -1,7 +1,7 @@
 
 # Hi there 👋 
 
-## Welcome to my profile  
+## Welcome to the ss0-dev profile
 
 
 ## 🚀 About Me
@@ -10,7 +10,7 @@
 - 💬 Ask me about Python, JavaScript, or server configuration.
 
 ## 📫 Contact
-[![Discord](https://img.shields.io/badge/Discord-.xyzss_-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-.xyzss_-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com](https://discord.com/users/877660545967357993))
 
 
 ## 🧰 Tech Stack & Tools
